@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/activitylifecycletest/activitylifecycletest.iml" filepath="$PROJECT_DIR$/activitylifecycletest/activitylifecycletest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentbestpractice/fragmentbestpractice.iml" filepath="$PROJECT_DIR$/fragmentbestpractice/fragmentbestpractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmenttest/fragmenttest.iml" filepath="$PROJECT_DIR$/fragmenttest/fragmenttest.iml" />
       <module fileurl="file://$PROJECT_DIR$/listviewtest/listviewtest.iml" filepath="$PROJECT_DIR$/listviewtest/listviewtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/uibestpractice/uibestpractice.iml" filepath="$PROJECT_DIR$/uibestpractice/uibestpractice.iml" />
