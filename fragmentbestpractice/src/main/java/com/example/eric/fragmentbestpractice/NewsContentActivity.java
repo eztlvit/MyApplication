@@ -10,7 +10,7 @@ import android.view.Window;
  * Created by Eric on 2015/12/9.
  */
 public class NewsContentActivity extends Activity {
-    public static void actionStart(Context context, String newsTitle,
+    public void actionStart(Context context, String newsTitle,
                                    String newsContent) {
         Intent intent = new Intent(context, NewsContentActivity.class);
         intent.putExtra("news_title", newsTitle);

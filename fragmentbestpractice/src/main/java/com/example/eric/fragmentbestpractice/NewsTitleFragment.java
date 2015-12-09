@@ -65,7 +65,8 @@ public class NewsTitleFragment extends Fragment implements
             newsContentFragment.refresh(news.getTitle(), news.getContent());
         } else {
         // 如果是单页模式，则直接启动NewsContentActivity
-            NewsContentActivity.actionStart(getActivity(), news.getTitle(),
+            NewsContentActivity nca = new NewsContentActivity();
+            nca.actionStart(getActivity(), news.getTitle(),
                     news.getContent());
         }
     }
