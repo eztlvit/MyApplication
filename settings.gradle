@@ -1,0 +1,1 @@
+include ':app', ':activitylifecycletest', ':activitylifecycletest', ':listviewtest', ':uisizetest', ':uibestpractice', ':fragmenttest'
