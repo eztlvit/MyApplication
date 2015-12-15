@@ -20,8 +20,10 @@
             <option value="$PROJECT_DIR$/fragmentbestpractice" />
             <option value="$PROJECT_DIR$/fragmenttest" />
             <option value="$PROJECT_DIR$/listviewtest" />
+            <option value="$PROJECT_DIR$/notificationtest" />
             <option value="$PROJECT_DIR$/providertest" />
             <option value="$PROJECT_DIR$/sharedpreferencestest" />
+            <option value="$PROJECT_DIR$/smstest" />
             <option value="$PROJECT_DIR$/uibestpractice" />
             <option value="$PROJECT_DIR$/uisizetest" />
           </set>
